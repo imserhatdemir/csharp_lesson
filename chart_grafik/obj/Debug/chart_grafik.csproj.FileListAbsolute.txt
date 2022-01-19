@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\bin\Debug\chart_grafik.exe.config
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\bin\Debug\chart_grafik.exe
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\bin\Debug\chart_grafik.pdb
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.exe
+C:\Users\HP\Desktop\c# dersleri\chart_grafik\obj\Debug\chart_grafik.pdb

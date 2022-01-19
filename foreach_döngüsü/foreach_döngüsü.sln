@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_döngüsü", "foreach_döngüsü.csproj", "{68DEBFA9-E6D5-44FB-B72E-9B615B8EB5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DEBFA9-E6D5-44FB-B72E-9B615B8EB5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DEBFA9-E6D5-44FB-B72E-9B615B8EB5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DEBFA9-E6D5-44FB-B72E-9B615B8EB5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DEBFA9-E6D5-44FB-B72E-9B615B8EB5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0BA8E6-8861-4D5D-B635-C5F68D29280F}
+	EndGlobalSection
+EndGlobal

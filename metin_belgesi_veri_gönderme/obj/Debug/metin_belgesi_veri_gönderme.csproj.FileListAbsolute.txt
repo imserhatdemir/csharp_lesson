@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\bin\Debug\metin_belgesi_veri_gönderme.exe.config
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\bin\Debug\metin_belgesi_veri_gönderme.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\bin\Debug\metin_belgesi_veri_gönderme.pdb
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.pdb
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_veri_gönderme\obj\Debug\metin_belgesi_veri_gönderme.csprojAssemblyReference.cache

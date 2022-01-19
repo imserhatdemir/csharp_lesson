@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.exe.config
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.pdb
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.pdb

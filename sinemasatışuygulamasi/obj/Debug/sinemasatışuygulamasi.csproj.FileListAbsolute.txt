@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\bin\Debug\sinemasatışuygulamasi.exe.config
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\bin\Debug\sinemasatışuygulamasi.exe
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\bin\Debug\sinemasatışuygulamasi.pdb
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.exe
+C:\Users\HP\Desktop\c# dersleri\sinemasatışuygulamasi\obj\Debug\sinemasatışuygulamasi.pdb

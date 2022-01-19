@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\bin\Debug\foreach_döngüsü.exe.config
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\bin\Debug\foreach_döngüsü.exe
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\bin\Debug\foreach_döngüsü.pdb
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.exe
+C:\Users\HP\Desktop\c# dersleri\foreach_döngüsü\obj\Debug\foreach_döngüsü.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\extra_arac\bin\Debug\extra_arac.exe.config
+C:\Users\HP\Desktop\c# dersleri\extra_arac\bin\Debug\extra_arac.exe
+C:\Users\HP\Desktop\c# dersleri\extra_arac\bin\Debug\extra_arac.pdb
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.exe
+C:\Users\HP\Desktop\c# dersleri\extra_arac\obj\Debug\extra_arac.pdb

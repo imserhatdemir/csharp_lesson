@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\bin\Debug\foreach_ödev.exe.config
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\bin\Debug\foreach_ödev.exe
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\bin\Debug\foreach_ödev.pdb
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.exe
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.pdb
+C:\Users\HP\Desktop\c# dersleri\foreach_ödev\obj\Debug\foreach_ödev.csprojAssemblyReference.cache

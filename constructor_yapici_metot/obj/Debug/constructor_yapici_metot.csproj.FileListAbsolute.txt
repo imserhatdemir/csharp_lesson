@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\bin\Debug\constructor_yapici_metot.exe.config
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\bin\Debug\constructor_yapici_metot.exe
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\bin\Debug\constructor_yapici_metot.pdb
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\obj\Debug\constructor_yapici_metot.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\obj\Debug\constructor_yapici_metot.exe
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\obj\Debug\constructor_yapici_metot.pdb
+C:\Users\HP\Desktop\c# dersleri\constructor_yapici_metot\obj\Debug\constructor_yapici_metot.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.exe.config
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.exe
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\bin\Debug\formlar_arasi_gecis.pdb
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Form2.resources
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.exe
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.pdb
+C:\Users\HP\Desktop\c# dersleri\formlar_arasi_gecis\obj\Debug\formlar_arasi_gecis.csprojAssemblyReference.cache

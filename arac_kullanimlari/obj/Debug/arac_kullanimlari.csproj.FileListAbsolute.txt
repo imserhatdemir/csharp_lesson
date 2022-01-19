@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\bin\Debug\arac_kullanimlari.exe.config
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\bin\Debug\arac_kullanimlari.exe
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\bin\Debug\arac_kullanimlari.pdb
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.exe
+C:\Users\HP\Desktop\c# dersleri\arac_kullanimlari\obj\Debug\arac_kullanimlari.pdb

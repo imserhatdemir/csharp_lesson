@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\menustrip\bin\Debug\menustrip.exe.config
+C:\Users\HP\Desktop\c# dersleri\menustrip\bin\Debug\menustrip.exe
+C:\Users\HP\Desktop\c# dersleri\menustrip\bin\Debug\menustrip.pdb
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.exe
+C:\Users\HP\Desktop\c# dersleri\menustrip\obj\Debug\menustrip.pdb

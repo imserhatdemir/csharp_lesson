@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\degisken_double\bin\Debug\degisken_double.exe.config
+C:\Users\HP\Desktop\c# dersleri\degisken_double\bin\Debug\degisken_double.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_double\bin\Debug\degisken_double.pdb
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_double\obj\Debug\degisken_double.pdb

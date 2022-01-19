@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\degisken_string\bin\Debug\degisken_string.exe.config
+C:\Users\HP\Desktop\c# dersleri\degisken_string\bin\Debug\degisken_string.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_string\bin\Debug\degisken_string.pdb
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_string\obj\Debug\degisken_string.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\HP\Desktop\c# dersleri\switch_case\bin\Debug\switch_case.exe
+C:\Users\HP\Desktop\c# dersleri\switch_case\bin\Debug\switch_case.pdb
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.exe
+C:\Users\HP\Desktop\c# dersleri\switch_case\obj\Debug\switch_case.pdb

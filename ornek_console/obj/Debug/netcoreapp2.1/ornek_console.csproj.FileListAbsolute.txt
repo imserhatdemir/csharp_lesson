@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\c# dersleri\ornek_console\bin\Debug\netcoreapp2.1\ornek_console.deps.json
+C:\Users\HP\Desktop\c# dersleri\ornek_console\bin\Debug\netcoreapp2.1\ornek_console.runtimeconfig.json
+C:\Users\HP\Desktop\c# dersleri\ornek_console\bin\Debug\netcoreapp2.1\ornek_console.runtimeconfig.dev.json
+C:\Users\HP\Desktop\c# dersleri\ornek_console\bin\Debug\netcoreapp2.1\ornek_console.dll
+C:\Users\HP\Desktop\c# dersleri\ornek_console\bin\Debug\netcoreapp2.1\ornek_console.pdb
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.AssemblyInfo.cs
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.dll
+C:\Users\HP\Desktop\c# dersleri\ornek_console\obj\Debug\netcoreapp2.1\ornek_console.pdb

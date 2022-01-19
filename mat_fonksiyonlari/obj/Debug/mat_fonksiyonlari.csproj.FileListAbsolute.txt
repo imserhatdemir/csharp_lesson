@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\bin\Debug\mat_fonksiyonlari.exe.config
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\bin\Debug\mat_fonksiyonlari.exe
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\bin\Debug\mat_fonksiyonlari.pdb
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.exe
+C:\Users\HP\Desktop\c# dersleri\mat_fonksiyonlari\obj\Debug\mat_fonksiyonlari.pdb

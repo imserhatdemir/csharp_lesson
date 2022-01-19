@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\bin\Debug\dinamik_araclar.exe.config
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\bin\Debug\dinamik_araclar.exe
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\bin\Debug\dinamik_araclar.pdb
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.exe
+C:\Users\HP\Desktop\c# dersleri\dinamik_araclar\obj\Debug\dinamik_araclar.pdb

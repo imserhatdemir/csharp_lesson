@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\bin\Debug\diziler_siralama.exe.config
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\bin\Debug\diziler_siralama.exe
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\bin\Debug\diziler_siralama.pdb
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.exe
+C:\Users\HP\Desktop\c# dersleri\diziler_siralama\obj\Debug\diziler_siralama.pdb

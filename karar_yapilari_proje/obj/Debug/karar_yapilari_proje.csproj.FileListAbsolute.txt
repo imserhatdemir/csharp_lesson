@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\bin\Debug\karar_yapilari_proje.exe.config
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\bin\Debug\karar_yapilari_proje.exe
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\bin\Debug\karar_yapilari_proje.pdb
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.exe
+C:\Users\HP\Desktop\c# dersleri\karar_yapilari_proje\obj\Debug\karar_yapilari_proje.pdb

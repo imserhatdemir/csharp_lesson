@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\diziler\bin\Debug\diziler.exe.config
+C:\Users\HP\Desktop\c# dersleri\diziler\bin\Debug\diziler.exe
+C:\Users\HP\Desktop\c# dersleri\diziler\bin\Debug\diziler.pdb
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.exe
+C:\Users\HP\Desktop\c# dersleri\diziler\obj\Debug\diziler.pdb

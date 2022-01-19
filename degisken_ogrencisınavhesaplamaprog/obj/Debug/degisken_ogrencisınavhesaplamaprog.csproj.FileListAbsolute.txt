@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\bin\Debug\degisken_ogrencisınavhesaplamaprog.exe.config
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\bin\Debug\degisken_ogrencisınavhesaplamaprog.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\bin\Debug\degisken_ogrencisınavhesaplamaprog.pdb
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_ogrencisınavhesaplamaprog\obj\Debug\degisken_ogrencisınavhesaplamaprog.pdb

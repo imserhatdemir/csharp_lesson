@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\obj\Debug\ornek_console2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\obj\Debug\ornek_console2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\bin\Debug\ornek_console2.exe.config
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\bin\Debug\ornek_console2.exe
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\bin\Debug\ornek_console2.pdb
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\obj\Debug\ornek_console2.exe
+C:\Users\HP\Desktop\c# dersleri\ornek_console2\obj\Debug\ornek_console2.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\bin\Debug\döngüler_while.exe.config
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\bin\Debug\döngüler_while.exe
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\bin\Debug\döngüler_while.pdb
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.exe
+C:\Users\HP\Desktop\c# dersleri\döngüler_while\obj\Debug\döngüler_while.pdb

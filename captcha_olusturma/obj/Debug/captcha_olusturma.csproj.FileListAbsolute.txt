@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\bin\Debug\captcha_olusturma.exe.config
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\bin\Debug\captcha_olusturma.exe
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\bin\Debug\captcha_olusturma.pdb
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.exe
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.pdb
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\captcha_olusturma\obj\Debug\captcha_olusturma.Form2.resources

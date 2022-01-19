@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\bin\Debug\sayisal_loto_proje.exe.config
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\bin\Debug\sayisal_loto_proje.exe
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\bin\Debug\sayisal_loto_proje.pdb
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.exe
+C:\Users\HP\Desktop\c# dersleri\sayisal_loto_proje\obj\Debug\sayisal_loto_proje.pdb

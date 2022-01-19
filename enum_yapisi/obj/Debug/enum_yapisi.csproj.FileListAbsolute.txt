@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\bin\Debug\enum_yapisi.exe.config
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\bin\Debug\enum_yapisi.exe
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\bin\Debug\enum_yapisi.pdb
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.exe
+C:\Users\HP\Desktop\c# dersleri\enum_yapisi\obj\Debug\enum_yapisi.pdb

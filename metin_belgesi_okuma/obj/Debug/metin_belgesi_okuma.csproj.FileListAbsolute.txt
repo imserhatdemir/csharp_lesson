@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.exe.config
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.pdb
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.exe
+C:\Users\HP\Desktop\c# dersleri\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.pdb

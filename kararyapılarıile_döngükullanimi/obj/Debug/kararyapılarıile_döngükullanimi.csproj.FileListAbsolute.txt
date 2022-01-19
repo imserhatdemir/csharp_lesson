@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\bin\Debug\kararyapılarıile_döngükullanimi.exe.config
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\bin\Debug\kararyapılarıile_döngükullanimi.exe
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\bin\Debug\kararyapılarıile_döngükullanimi.pdb
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.exe
+C:\Users\HP\Desktop\c# dersleri\kararyapılarıile_döngükullanimi\obj\Debug\kararyapılarıile_döngükullanimi.pdb

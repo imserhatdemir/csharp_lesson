@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\bin\Debug\ardısık_sayı_toplamı.exe.config
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\bin\Debug\ardısık_sayı_toplamı.exe
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\bin\Debug\ardısık_sayı_toplamı.pdb
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.exe
+C:\Users\HP\Desktop\c# dersleri\ardısık_sayı_toplamı\obj\Debug\ardısık_sayı_toplamı.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\bin\Debug\döngüler_for.exe.config
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\bin\Debug\döngüler_for.exe
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\bin\Debug\döngüler_for.pdb
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.exe
+C:\Users\HP\Desktop\c# dersleri\döngüler_for\obj\Debug\döngüler_for.pdb

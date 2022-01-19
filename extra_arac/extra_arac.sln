@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extra_arac", "extra_arac.csproj", "{D7B186A2-5D30-4941-9EB5-C5F683A32730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B186A2-5D30-4941-9EB5-C5F683A32730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B186A2-5D30-4941-9EB5-C5F683A32730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B186A2-5D30-4941-9EB5-C5F683A32730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B186A2-5D30-4941-9EB5-C5F683A32730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1914EC2E-C67F-4D5C-8816-1AE073D7B607}
+	EndGlobalSection
+EndGlobal

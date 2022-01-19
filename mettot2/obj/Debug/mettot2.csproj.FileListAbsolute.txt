@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\mettot2\bin\Debug\mettot2.exe.config
+C:\Users\HP\Desktop\c# dersleri\mettot2\bin\Debug\mettot2.exe
+C:\Users\HP\Desktop\c# dersleri\mettot2\bin\Debug\mettot2.pdb
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.exe
+C:\Users\HP\Desktop\c# dersleri\mettot2\obj\Debug\mettot2.pdb

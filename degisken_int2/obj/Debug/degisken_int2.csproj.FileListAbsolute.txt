@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\bin\Debug\degisken_int2.exe.config
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\bin\Debug\degisken_int2.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\bin\Debug\degisken_int2.pdb
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_int2\obj\Debug\degisken_int2.pdb

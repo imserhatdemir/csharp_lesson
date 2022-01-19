@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\bin\Debug\point_yapisi.exe.config
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\bin\Debug\point_yapisi.exe
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\bin\Debug\point_yapisi.pdb
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.exe
+C:\Users\HP\Desktop\c# dersleri\point_yapisi\obj\Debug\point_yapisi.pdb

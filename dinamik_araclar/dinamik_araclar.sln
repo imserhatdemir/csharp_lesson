@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinamik_araclar", "dinamik_araclar.csproj", "{96F2ADC1-A3B6-4722-AA1C-C81C87223175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F2ADC1-A3B6-4722-AA1C-C81C87223175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F2ADC1-A3B6-4722-AA1C-C81C87223175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F2ADC1-A3B6-4722-AA1C-C81C87223175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F2ADC1-A3B6-4722-AA1C-C81C87223175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDB3FB9-CFC3-4892-92AD-A3DA3C2D534B}
+	EndGlobalSection
+EndGlobal

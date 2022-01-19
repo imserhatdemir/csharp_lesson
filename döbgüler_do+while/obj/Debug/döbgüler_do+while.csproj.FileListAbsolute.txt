@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\bin\Debug\döbgüler_do+while.exe.config
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\bin\Debug\döbgüler_do+while.exe
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\bin\Debug\döbgüler_do+while.pdb
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do_while.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do_while.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do+while.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do+while.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do+while.exe
+C:\Users\HP\Desktop\c# dersleri\döbgüler_do+while\obj\Debug\döbgüler_do+while.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\progress_bar\bin\Debug\progress_bar.exe.config
+C:\Users\HP\Desktop\c# dersleri\progress_bar\bin\Debug\progress_bar.exe
+C:\Users\HP\Desktop\c# dersleri\progress_bar\bin\Debug\progress_bar.pdb
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.exe
+C:\Users\HP\Desktop\c# dersleri\progress_bar\obj\Debug\progress_bar.pdb

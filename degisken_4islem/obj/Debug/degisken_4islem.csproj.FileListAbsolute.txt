@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\bin\Debug\degisken_4islem.exe.config
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\bin\Debug\degisken_4islem.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\bin\Debug\degisken_4islem.pdb
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.exe
+C:\Users\HP\Desktop\c# dersleri\degisken_4islem\obj\Debug\degisken_4islem.pdb

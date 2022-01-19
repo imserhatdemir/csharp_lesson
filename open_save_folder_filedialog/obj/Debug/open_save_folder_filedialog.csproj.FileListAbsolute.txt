@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\bin\Debug\open_save_folder_filedialog.exe.config
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\bin\Debug\open_save_folder_filedialog.exe
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\bin\Debug\open_save_folder_filedialog.pdb
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.exe
+C:\Users\HP\Desktop\c# dersleri\open_save_folder_filedialog\obj\Debug\open_save_folder_filedialog.pdb

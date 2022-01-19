@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\bin\Debug\Değişkenler_string.exe.config
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\bin\Debug\Değişkenler_string.exe
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\bin\Debug\Değişkenler_string.pdb
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.exe
+C:\Users\HP\Desktop\c# dersleri\Değişkenler_string\obj\Debug\Değişkenler_string.pdb

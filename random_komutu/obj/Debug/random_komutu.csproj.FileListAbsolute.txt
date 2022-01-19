@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# dersleri\random_komutu\bin\Debug\random_komutu.exe.config
+C:\Users\HP\Desktop\c# dersleri\random_komutu\bin\Debug\random_komutu.exe
+C:\Users\HP\Desktop\c# dersleri\random_komutu\bin\Debug\random_komutu.pdb
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.Form1.resources
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.Properties.Resources.resources
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.exe
+C:\Users\HP\Desktop\c# dersleri\random_komutu\obj\Debug\random_komutu.pdb
